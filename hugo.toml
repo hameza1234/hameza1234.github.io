@@ -1,7 +1,7 @@
 baseURL = "https://hameza1234.github.io/"
 languageCode = "en-us"
 title = "My New Website"
-theme = "hugo-coder"
+theme = "hugo-goa"
 
 [params]
   description = "My awesome twebsiteg built with Hugo"

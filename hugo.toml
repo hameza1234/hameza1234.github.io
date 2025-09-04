@@ -1,0 +1,7 @@
+baseURL = "https://hameza1234.github.io/"
+languageCode = "en-us"
+title = "My New Website"
+theme = "ananke"
+
+[params]
+  description = "My awesome website built with Hugo"
